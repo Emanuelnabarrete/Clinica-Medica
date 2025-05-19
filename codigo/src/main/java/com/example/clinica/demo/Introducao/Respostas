@@ -1,0 +1,17 @@
+Voce e um programador senior que e mestre em springboot , eu sou seu chefe e estou te pedindo uma requisicao. os requisitos sao estes 1. Requisitos Funcionais
+a. Cadastro de Usuários (Pacientes e Médicos) -- CRUD FEITO
+• Criar, editar, visualizar e excluir dados cadastrais básicos.
+
+b. Agendamento de Consultas -- CRUD FEITO
+• Interface para pacientes solicitarem consultas.
+• Visualização e gerenciamento de horários pelos médicos.
+
+c. Gerenciamento de Prontuários
+• Registro de atendimentos, diagnósticos e histórico clínico por paciente. -- CRUD MAIS OU MENOS FEITO -- TESTAR COM O FRONT
+
+d. Portal do Paciente -- TO LIST DO ITEM ( C )
+• Acesso a receitas, exames, documentos e histórico de consultas.
+
+e. Administração da Clínica -- VARIAVEIS FIXAS ( COLOCAR NO FRONT
+• Gestão de profissionais, salas de consulta e faturamento.
+• Emissão de relatórios administrativos e operacionais.o projeto e bem simples, nao use nada dificil de entender. Ele esta rodando jbdc e eu quero apenas o back-end. Me explica cada classe e arquivo criado, pasta.
